@@ -5,8 +5,8 @@
 
 - 📑 Atualmente curso Análise e desenvolvimento de sistemas na Uniube
 - 📈 Aprimorando minhas habilidades em desenvolvimento web, design UI/UX, react e prototipagem.
-- 📖 Apaixonado por ler, aprender e ouvir música boa
-- 📫 Como me encontrar: mariajuliamtsp@gmail.com
+- 📖 Apaixonada por ler, aprender e ouvir música boa
+- 📫 Contato: mariajuliamtsp@gmail.com
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariajuliamtsp)
   
